@@ -12,9 +12,10 @@ mb997d stm32f4-discovery board size dimensions in mm :<br>
 > width = 66<br>
 > length = 97<br>
 > thickness = 1.6<br>
+> tolerance = 0.5<br>
 
 <div style="text-align: center;">
-  <img src="doc/cutaway_offsets.png" />
+  <img width="600" src="doc/cutaway_offsets.png" />
 </div>
 
 color legend for screenshots:<br>
@@ -24,12 +25,22 @@ color legend for screenshots:<br>
 ## Assembly
 
 <div style="text-align: center;">
-  <img src="doc/perspective.png" />
+  <img width="600" src="doc/perspective.png" />
 </div>
 
 ## Result
 
-TBC
+3d print with white PLA 1.75 mm and 10% fill<br>
+> top side<br>
+
+<div style="text-align: center;">
+  <img width="600" src="doc/mb997d_top.png" />
+</div><br>
+
+> bottom side<br> 
+<div style="text-align: center;">
+  <img width="600" src="doc/mb997d_bottom.png" />
+</div><br>
 
 ## License
 
